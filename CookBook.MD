@@ -3,6 +3,10 @@ title: "CookBook.MD"
 output: html_document
 ---
 
+
+
+The transformations to create the new tiny data set are carried out with the R script transform.R. The used variables and the main tranformation steps are described below:
+
 **Used variables**
 
 `features`:
